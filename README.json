@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Adversary Simulation & Emulation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Binary Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cloud Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cryptography"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Sets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Digital Forensics and Incident Response"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Exploits"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardening"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hardware"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Malware Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Network Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-source Intelligence (OSINT)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Password Cracking and Wordlists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Social Engineering"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Smart Contract"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vulnerable"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:23.423Z",
+    "original_repository": "pe3zx/my-infosec-awesome",
+    "original_repository_sha": "3a4df81f69471d338ce05e37983c338dfee84b74",
+    "enhanced_repository": "enhansome/my-infosec-enhansome",
+    "enhanced_repository_description": null,
+    "title": "My Infosec Awesome with stars"
+  }
+}
