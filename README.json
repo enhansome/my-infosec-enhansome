@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T02:55:50.226Z",
-    "original_repository": "pe3zx/my-infosec-awesome",
-    "original_repository_id": 110137386,
+    "last_updated": "2026-08-27T12:13:02.820Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 110137386,
+      "language": null,
+      "last_commit": "2026-07-19T06:07:14Z",
+      "owner": "pe3zx",
+      "repo": "my-infosec-awesome",
+      "stars": 1167
+    },
     "original_repository_sha": "3a4df81f69471d338ce05e37983c338dfee84b74",
     "enhanced_repository": "enhansome/my-infosec-enhansome",
     "enhanced_repository_description": null,
