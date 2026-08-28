@@ -299,10 +299,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI</td>
     </tr>
     <tr>
-    <tr>
-        <td><a href="https://github.com/ASCIT31/Dark-Moon">ASCIT31/Dark-Moon</a></td>
-        <td>Open-source (GPL-3.0) autonomous AI penetration testing platform and MCP host; per-technology offensive sub-agents plan and run full engagements across web, API, Active Directory and Kubernetes with an evidence trail per finding.</td>
-    </tr>
         <td><a href="https://github.com/ARPSyndicate/kenzer">ARPSyndicate/kenzer</a></td>
         <td>automated web assets enumeration & scanning</td>
     </tr>
@@ -540,10 +536,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
-        <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/rpgeeganage/audit-node-modules-with-yara">rpgeeganage/audit-node-modules-with-yara</a></td>
         <td>Audit Node Module folder with YARA rules to identify possible malicious packages hiding in node_moudles</td>
     </tr>
@@ -627,6 +619,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><b>Link</b></td>
         <td><b>Description</b></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/1rhino2/fnprint">1rhino2/fnprint</a></td>
+        <td>Behavioral function fingerprinting; names functions in stripped ELF binaries and patch-diffs vuln vs patched builds by microexecution.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/acsdavid97/DotNetHooker">acsdavid97/DotNetHooker</a></td>
@@ -975,10 +971,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/utkonos/lst2x64dbg">utkonos/lst2x64dbg</a></td>
         <td>Extract labels from IDA, Ghidra, Binary Ninja, and Relyze files and export x64dbg database. Including radare2 main address.</td>
-    </tr>
-    <tr>
-        <td><a href="https://codisec.com/veles/">Veles</a></td>
-        <td>New open source tool for binary data analysis</td>
     </tr>
     <tr>
         <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
@@ -1608,10 +1600,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/CrowdStrike/SuperMem">CrowdStrike/SuperMem</a></td>
         <td>A python script developed to process Windows memory images based on triage type.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/cryps1s/DARKSURGEON">cryps1s/DARKSURGEON</a></td>
-        <td>DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cyb3rfox/Aurora-Incident-Response">cyb3rfox/Aurora-Incident-Response</a></td>
@@ -3151,10 +3139,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Cellular Coverage and Tower Map</a></td>
     </tr>
     <tr>
-        <td><a href="https://crt.sh/">Certificate Search</a></td>
-        <td>crt.sh | Certificate</td>
-    </tr>
-    <tr>
         <td><a href="https://start.me/p/EL84Km/cse-utopia">CSE Utopia</a></td>
         <td>CSE Utopia</td>
     </tr>
@@ -3915,4 +3899,4 @@ This repository is created as an online bookmark for useful links, resources and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
