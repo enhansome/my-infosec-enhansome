@@ -8,7 +8,7 @@
 
 ***
 
-**Update Nov 18, 2020**: [Offensive Bookmark.md](Offensive.md) has been created based on my need to map bookmarks (and tools) that practice tactics and techniques for offensive operations with MITRE ATT\&CK Enterprise Matrix. The Post Exploitation section on [README.md](readme.md) is now migrate to the new page. I will update the new page with my personal bookmark soon.
+**Update Nov 18, 2020**: [Offensive Bookmark.md](https://github.com/pe3zx/my-infosec-awesome/blob/HEAD/Offensive.md) has been created based on my need to map bookmarks (and tools) that practice tactics and techniques for offensive operations with MITRE ATT\&CK Enterprise Matrix. The Post Exploitation section on [README.md](https://github.com/pe3zx/my-infosec-awesome/blob/HEAD/readme.md) is now migrate to the new page. I will update the new page with my personal bookmark soon.
 
 ***
 
@@ -3903,4 +3903,4 @@ This repository is created as an online bookmark for useful links, resources and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
