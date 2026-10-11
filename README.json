@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-10T07:52:16.652Z",
+    "last_updated": "2026-10-11T07:59:00.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "My curated list of awesome links, resources and tools on infosec related topics",
@@ -9,8 +9,8 @@
       "id": 110137386,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-05T07:21:25Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-11T07:45:06Z",
+      "open_issues": 1,
       "owner": "pe3zx",
       "repo": "my-infosec-awesome",
       "stars": 1168,
@@ -21,7 +21,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "fbb96f45c4efd7194fb27d6452bcfeb632c7fc9a",
+    "original_repository_sha": "db35d8bea2afa038590e0ede89d927806c530e06",
     "enhanced_repository": "enhansome/my-infosec-enhansome",
     "enhanced_repository_description": null,
     "title": "My Infosec Awesome with stars"

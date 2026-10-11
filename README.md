@@ -257,6 +257,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><a href="https://github.com/warhorse/warhorse">warhorse/warhorse</a></td>
         <td>Warhorse consists of a fully-featured Ansible playbook to deploy infrastructure in the cloud for conducting security assessments.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/0xdnd/ctf-tracker">0xdnd/ctf-tracker</a></td>
+        <td>ZeroBox is an offline-first tactical CTF lab tracker, payload generator, and writeup studio for penetration testing and offensive security labs.</td>
+    </tr>
 </table>
 
 ## Application Security
@@ -329,10 +333,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/brompwnie/botb">brompwnie/botb</a></td>
         <td>A container analysis and exploitation tool for pentesters and engineers.</td>
-    </tr>
-    <tr>
-        <td><a href="https://bugbountyrecon.com/">Bug Bounty Recon</a></td>
-        <td>Bug Bounty Recon (bbrecon) is a Recon-as-a-Service for bug bounty hunters and security researchers. The API aims to provide a continuously up-to-date map of the Internet "safe harbor" attack surface, excluding out-of-scope targets.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/Checkmarx/kics">Checkmarx/kics</a></td>
@@ -1403,6 +1403,10 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://www.splunk.com/blog/2018/05/10/boss-of-the-soc-scoring-server-questions-and-answers-and-dataset-open-sourced-and-ready-for-download.html">BOTS 1.0 Dataset</a></td>
         <td>The BOTS 1.0 dataset records two attacks perpetrated by a fictitious hacktivist group called po1s0n1vy targeting Wayne Corp of Batman mythology. There are many comic book references in the data; from heroes and villains to “Batman’s” street addresses. Not only does the dataset have many different types of data - everything from Sysmon to Suricata - but there are even file hashes that can be found in Virustotal.com and domains/IPs to hunt for in OSINT tools like PassiveTotal and Robtex!</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive">Continuum-AI-Corp/Orca-AI-Incident-Archive</a></td>
+        <td>Orca AI Incident Archive: open dataset of real-world AI agent security incidents since 2025 (poisoned extensions, malicious MCP servers, agent-framework CVEs exploited in the wild), each record with primary sources; JSON/CSV exports</td>
     </tr>
     <tr>
         <td><a href="https://dataplane.org/">DataPlane.org</a></td>
@@ -2567,10 +2571,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Malware samples, analysis exercises and other interesting resources.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/KasperskyLab/klara">KasperskyLab/klara</a></td>
-        <td>Klara project is aimed at helping Threat Intelligence researechers hunt for new malware using Yara.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/katjahahn/PortEx">katjahahn/PortEx</a></td>
         <td>Java library to analyse Portable Executable files with a special focus on malware analysis and PE malformation robustness</td>
     </tr>
@@ -2977,10 +2977,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>An analytical framework for network traffic and behavioral analytics</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/Ben0xA/HoneyCreds">Ben0xA/HoneyCreds</a></td>
-        <td>HoneyCreds network credential injection to detect responder and other network poisoners.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/certego/PcapMonkey">certego/PcapMonkey</a></td>
         <td>PcapMonkey will provide an easy way to analyze pcap using the latest version of Suricata and Zeek.</td>
     </tr>
@@ -3206,10 +3202,6 @@ This repository is created as an online bookmark for useful links, resources and
 		<td><a href="https://github.com/intelowlproject/IntelOwl">intelowlproject/IntelOwl</a></td>
 		<td>Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale</td>
 	</tr>
-    <tr>
-        <td><a href="https://blog.shodan.io/introducing-the-internetdb-api/">InternetDB</a></td>
-        <td>Fast IP Lookups for Open Ports and Vulnerabilities</td>
-    </tr>
     <tr>
         <td><a href="https://github.com/iptv-org/iptv">iptv-org/iptv</a></td>
         <td>Collection of 8000+ publicly available IPTV channels from all over the world</td>
@@ -3518,7 +3510,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Phishing Framework for Pentesters</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/GemGeorge/SniperPhish/">GemGeorge/SniperPhish/</a></td>
+        <td><a href="https://sniperphish.com/">SniperPhish</a></td>
         <td>SniperPhish - The Web-Email Spear Phishing Toolkit</td>
     </tr>
     <tr>
@@ -3683,10 +3675,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Framework for cryptoeconomic contract security, decentralized security bounties. Live on Ethereum.</td>
     </tr>
     <tr>
-        <td><a href="https://lossless.cash/">Lossless</a></td>
-        <td>The first DeFi hack mitigation tool for token creators.</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/mikedeshazer/bricks">mikedeshazer/bricks</a></td>
         <td>Bricks is a sandbox and instruction manual collection for building smart contract exploits for Ethereum blockchains, designed to help developers think like hackers in a safe, fun environment.</td>
     </tr>
@@ -3788,7 +3776,7 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Very vulnerable ARM application (CTF style exploitation tutorial)</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/bkimminich/juice-shop">bkimminich/juice-shop</a></td>
+        <td><a href="https://github.com/juice-shop/juice-shop">juice-shop/juice-shop</a></td>
         <td>OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.</td>
     </tr>
     <tr>
@@ -3903,4 +3891,4 @@ This repository is created as an online bookmark for useful links, resources and
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
