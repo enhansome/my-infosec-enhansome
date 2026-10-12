@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-10-11T07:59:00.500Z",
+    "last_updated": "2026-10-12T08:14:07.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "My curated list of awesome links, resources and tools on infosec related topics",
@@ -13,7 +13,7 @@
       "open_issues": 1,
       "owner": "pe3zx",
       "repo": "my-infosec-awesome",
-      "stars": 1168,
+      "stars": 1169,
       "topics": [
         "awesome",
         "awesome-list",
